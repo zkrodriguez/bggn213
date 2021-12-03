@@ -1,4 +1,5 @@
 # Zaida's Bioinformatics Protfolio
+
 Bioinformatics class at UC San Diego Fall 2021
 
 ### Contents:
